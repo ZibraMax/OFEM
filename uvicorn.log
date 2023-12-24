@@ -1,0 +1,263 @@
+[2023-12-21 20:41:48,870] (Delta duration: 0.0000s) [DEBUG   ] ============================uvicorn============================
+[2023-12-21 20:41:48,870] (Delta duration: 0.0000s) [DEBUG   ] Session started @ 21/12/2023 - 20:41:48
+[2023-12-21 20:42:21,316] (Delta duration: 0.0000s) [DEBUG   ] ============================uvicorn============================
+[2023-12-21 20:42:21,316] (Delta duration: 0.0000s) [DEBUG   ] ============================uvicorn============================
+[2023-12-21 20:42:21,316] (Delta duration: 0.0002s) [DEBUG   ] Session started @ 21/12/2023 - 20:42:21
+[2023-12-21 20:42:21,316] (Delta duration: 0.0002s) [DEBUG   ] Session started @ 21/12/2023 - 20:42:21
+[2023-12-21 20:42:42,474] (Delta duration: 0.0000s) [DEBUG   ] ============================uvicorn============================
+[2023-12-21 20:42:42,478] (Delta duration: 0.0040s) [DEBUG   ] Session started @ 21/12/2023 - 20:42:42
+[2023-12-21 20:44:48,678] (Delta duration: 0.0000s) [DEBUG   ] ============================uvicorn============================
+[2023-12-21 20:44:48,678] (Delta duration: 0.0000s) [DEBUG   ] ============================uvicorn============================
+[2023-12-21 20:44:48,679] (Delta duration: 0.0010s) [DEBUG   ] Session started @ 21/12/2023 - 20:44:48
+[2023-12-21 20:44:48,679] (Delta duration: 0.0010s) [DEBUG   ] Session started @ 21/12/2023 - 20:44:48
+[2023-12-21 20:51:42,187] (Delta duration: 0.0000s) [DEBUG   ] ============================uvicorn============================
+[2023-12-21 20:51:42,187] (Delta duration: 0.0000s) [DEBUG   ] Session started @ 21/12/2023 - 20:51:42
+[2023-12-21 20:51:42,247] (Delta duration: 0.0591s) [DEBUG   ] FEM problem using the 2D Torsion formulation.
+[2023-12-21 20:51:42,248] (Delta duration: 0.0010s) [DEBUG   ] DOF: 1726
+[2023-12-21 20:51:42,248] (Delta duration: 0.0000s) [DEBUG   ] Elements: 769
+[2023-12-21 20:51:42,248] (Delta duration: 0.0000s) [DEBUG   ] Solver: lineal
+[2023-12-21 20:51:42,248] (Delta duration: 0.0000s) [DEBUG   ] EBC: 386
+[2023-12-21 20:51:42,248] (Delta duration: 0.0000s) [DEBUG   ] NBC: 0
+[2023-12-21 20:51:42,248] (Delta duration: 0.0000s) [INFO    ] Creating element matrices...
+[2023-12-21 20:51:42,578] (Delta duration: 0.3303s) [INFO    ] Done!
+[2023-12-21 20:51:42,578] (Delta duration: 0.0000s) [INFO    ] Ensembling equation system...
+[2023-12-21 20:51:42,610] (Delta duration: 0.0325s) [INFO    ] Done!
+[2023-12-21 20:51:42,610] (Delta duration: 0.0000s) [INFO    ] Border conditions...
+[2023-12-21 20:51:42,634] (Delta duration: 0.0234s) [INFO    ] Done!
+[2023-12-21 20:51:42,634] (Delta duration: 0.0000s) [INFO    ] Solving equation system...
+[2023-12-21 20:51:42,765] (Delta duration: 0.1309s) [INFO    ] Done!
+[2023-12-21 20:51:42,765] (Delta duration: 0.0000s) [DEBUG   ] Session ended @ 21/12/2023 - 20:51:42
+[2023-12-21 20:51:42,765] (Delta duration: 0.0000s) [DEBUG   ] Duration: 0:00:00.577291
+[2023-12-21 20:51:42,765] (Delta duration: 0.0000s) [INFO    ] End!
+[2023-12-21 20:54:00,338] (Delta duration: 0.0000s) [DEBUG   ] ============================uvicorn============================
+[2023-12-21 20:54:00,338] (Delta duration: 0.0000s) [DEBUG   ] Session started @ 21/12/2023 - 20:54:00
+[2023-12-21 20:54:00,392] (Delta duration: 0.0539s) [DEBUG   ] FEM problem using the 2D Torsion formulation.
+[2023-12-21 20:54:00,392] (Delta duration: 0.0000s) [DEBUG   ] DOF: 1726
+[2023-12-21 20:54:00,392] (Delta duration: 0.0000s) [DEBUG   ] Elements: 769
+[2023-12-21 20:54:00,392] (Delta duration: 0.0000s) [DEBUG   ] Solver: lineal
+[2023-12-21 20:54:00,392] (Delta duration: 0.0000s) [DEBUG   ] EBC: 386
+[2023-12-21 20:54:00,392] (Delta duration: 0.0000s) [DEBUG   ] NBC: 0
+[2023-12-21 20:54:00,392] (Delta duration: 0.0000s) [INFO    ] Creating element matrices...
+[2023-12-21 20:54:00,822] (Delta duration: 0.4305s) [INFO    ] Done!
+[2023-12-21 20:54:00,822] (Delta duration: 0.0000s) [INFO    ] Ensembling equation system...
+[2023-12-21 20:54:00,868] (Delta duration: 0.0458s) [INFO    ] Done!
+[2023-12-21 20:54:00,868] (Delta duration: 0.0000s) [INFO    ] Border conditions...
+[2023-12-21 20:54:00,883] (Delta duration: 0.0155s) [INFO    ] Done!
+[2023-12-21 20:54:00,883] (Delta duration: 0.0000s) [INFO    ] Solving equation system...
+[2023-12-21 20:54:01,070] (Delta duration: 0.1864s) [INFO    ] Done!
+[2023-12-21 20:54:01,070] (Delta duration: 0.0000s) [DEBUG   ] Session ended @ 21/12/2023 - 20:54:01
+[2023-12-21 20:54:01,070] (Delta duration: 0.0000s) [DEBUG   ] Duration: 0:00:00.732080
+[2023-12-21 20:54:01,070] (Delta duration: 0.0000s) [INFO    ] End!
+[2023-12-21 20:55:11,454] (Delta duration: 0.0000s) [DEBUG   ] ============================uvicorn============================
+[2023-12-21 20:55:11,454] (Delta duration: 0.0001s) [DEBUG   ] Session started @ 21/12/2023 - 20:55:11
+[2023-12-21 20:55:11,506] (Delta duration: 0.0517s) [DEBUG   ] FEM problem using the 2D Torsion formulation.
+[2023-12-21 20:55:11,506] (Delta duration: 0.0000s) [DEBUG   ] DOF: 1726
+[2023-12-21 20:55:11,506] (Delta duration: 0.0000s) [DEBUG   ] Elements: 769
+[2023-12-21 20:55:11,506] (Delta duration: 0.0000s) [DEBUG   ] Solver: lineal
+[2023-12-21 20:55:11,506] (Delta duration: 0.0000s) [DEBUG   ] EBC: 386
+[2023-12-21 20:55:11,506] (Delta duration: 0.0000s) [DEBUG   ] NBC: 0
+[2023-12-21 20:55:11,506] (Delta duration: 0.0000s) [INFO    ] Creating element matrices...
+[2023-12-21 20:55:11,965] (Delta duration: 0.4597s) [INFO    ] Done!
+[2023-12-21 20:55:11,965] (Delta duration: 0.0000s) [INFO    ] Ensembling equation system...
+[2023-12-21 20:55:12,015] (Delta duration: 0.0494s) [INFO    ] Done!
+[2023-12-21 20:55:12,015] (Delta duration: 0.0000s) [INFO    ] Border conditions...
+[2023-12-21 20:55:12,027] (Delta duration: 0.0125s) [INFO    ] Done!
+[2023-12-21 20:55:12,028] (Delta duration: 0.0010s) [INFO    ] Solving equation system...
+[2023-12-21 20:55:12,639] (Delta duration: 0.6111s) [INFO    ] Done!
+[2023-12-21 20:55:12,639] (Delta duration: 0.0000s) [DEBUG   ] Session ended @ 21/12/2023 - 20:55:12
+[2023-12-21 20:55:12,639] (Delta duration: 0.0000s) [DEBUG   ] Duration: 0:00:01.185460
+[2023-12-21 20:55:12,640] (Delta duration: 0.0010s) [INFO    ] End!
+[2023-12-21 20:56:26,547] (Delta duration: 0.0000s) [DEBUG   ] ============================uvicorn============================
+[2023-12-21 20:56:26,547] (Delta duration: 0.0000s) [DEBUG   ] Session started @ 21/12/2023 - 20:56:26
+[2023-12-21 20:56:26,606] (Delta duration: 0.0590s) [DEBUG   ] FEM problem using the 2D Torsion formulation.
+[2023-12-21 20:56:26,607] (Delta duration: 0.0015s) [DEBUG   ] DOF: 1726
+[2023-12-21 20:56:26,607] (Delta duration: 0.0000s) [DEBUG   ] Elements: 769
+[2023-12-21 20:56:26,607] (Delta duration: 0.0000s) [DEBUG   ] Solver: lineal
+[2023-12-21 20:56:26,607] (Delta duration: 0.0000s) [DEBUG   ] EBC: 386
+[2023-12-21 20:56:26,607] (Delta duration: 0.0000s) [DEBUG   ] NBC: 0
+[2023-12-21 20:56:26,607] (Delta duration: 0.0000s) [INFO    ] Creating element matrices...
+[2023-12-21 20:56:26,910] (Delta duration: 0.3028s) [INFO    ] Done!
+[2023-12-21 20:56:26,910] (Delta duration: 0.0000s) [INFO    ] Ensembling equation system...
+[2023-12-21 20:56:26,943] (Delta duration: 0.0331s) [INFO    ] Done!
+[2023-12-21 20:56:26,944] (Delta duration: 0.0010s) [INFO    ] Border conditions...
+[2023-12-21 20:56:26,956] (Delta duration: 0.0115s) [INFO    ] Done!
+[2023-12-21 20:56:26,956] (Delta duration: 0.0000s) [INFO    ] Solving equation system...
+[2023-12-21 20:56:27,243] (Delta duration: 0.2878s) [INFO    ] Done!
+[2023-12-21 20:56:27,243] (Delta duration: 0.0000s) [DEBUG   ] Session ended @ 21/12/2023 - 20:56:27
+[2023-12-21 20:56:27,244] (Delta duration: 0.0010s) [DEBUG   ] Duration: 0:00:00.696691
+[2023-12-21 20:56:27,244] (Delta duration: 0.0000s) [INFO    ] End!
+[2023-12-21 20:57:11,570] (Delta duration: 0.0000s) [DEBUG   ] ============================uvicorn============================
+[2023-12-21 20:57:11,571] (Delta duration: 0.0010s) [DEBUG   ] Session started @ 21/12/2023 - 20:57:11
+[2023-12-21 20:57:11,625] (Delta duration: 0.0540s) [DEBUG   ] FEM problem using the 2D Torsion formulation.
+[2023-12-21 20:57:11,625] (Delta duration: 0.0000s) [DEBUG   ] DOF: 1726
+[2023-12-21 20:57:11,625] (Delta duration: 0.0000s) [DEBUG   ] Elements: 769
+[2023-12-21 20:57:11,625] (Delta duration: 0.0000s) [DEBUG   ] Solver: lineal
+[2023-12-21 20:57:11,625] (Delta duration: 0.0000s) [DEBUG   ] EBC: 386
+[2023-12-21 20:57:11,625] (Delta duration: 0.0000s) [DEBUG   ] NBC: 0
+[2023-12-21 20:57:11,625] (Delta duration: 0.0000s) [INFO    ] Creating element matrices...
+[2023-12-21 20:57:12,143] (Delta duration: 0.5171s) [INFO    ] Done!
+[2023-12-21 20:57:12,157] (Delta duration: 0.0146s) [INFO    ] Ensembling equation system...
+[2023-12-21 20:57:12,224] (Delta duration: 0.0667s) [INFO    ] Done!
+[2023-12-21 20:57:12,224] (Delta duration: 0.0000s) [INFO    ] Border conditions...
+[2023-12-21 20:57:12,241] (Delta duration: 0.0175s) [INFO    ] Done!
+[2023-12-21 20:57:12,241] (Delta duration: 0.0000s) [INFO    ] Solving equation system...
+[2023-12-21 20:57:12,424] (Delta duration: 0.1827s) [INFO    ] Done!
+[2023-12-21 20:57:12,424] (Delta duration: 0.0000s) [DEBUG   ] Session ended @ 21/12/2023 - 20:57:12
+[2023-12-21 20:57:12,425] (Delta duration: 0.0010s) [DEBUG   ] Duration: 0:00:00.853744
+[2023-12-21 20:57:12,425] (Delta duration: 0.0000s) [INFO    ] End!
+[2023-12-21 20:58:26,663] (Delta duration: 0.0000s) [DEBUG   ] ============================uvicorn============================
+[2023-12-21 20:58:26,663] (Delta duration: 0.0000s) [DEBUG   ] Session started @ 21/12/2023 - 20:58:26
+[2023-12-21 20:58:26,734] (Delta duration: 0.0712s) [DEBUG   ] FEM problem using the 2D Torsion formulation.
+[2023-12-21 20:58:26,734] (Delta duration: 0.0000s) [DEBUG   ] DOF: 1726
+[2023-12-21 20:58:26,734] (Delta duration: 0.0000s) [DEBUG   ] Elements: 769
+[2023-12-21 20:58:26,735] (Delta duration: 0.0010s) [DEBUG   ] Solver: lineal
+[2023-12-21 20:58:26,735] (Delta duration: 0.0000s) [DEBUG   ] EBC: 386
+[2023-12-21 20:58:26,735] (Delta duration: 0.0000s) [DEBUG   ] NBC: 0
+[2023-12-21 20:58:26,735] (Delta duration: 0.0000s) [INFO    ] Creating element matrices...
+[2023-12-21 20:58:27,165] (Delta duration: 0.4307s) [INFO    ] Done!
+[2023-12-21 20:58:27,166] (Delta duration: 0.0010s) [INFO    ] Ensembling equation system...
+[2023-12-21 20:58:27,263] (Delta duration: 0.0968s) [INFO    ] Done!
+[2023-12-21 20:58:27,264] (Delta duration: 0.0010s) [INFO    ] Border conditions...
+[2023-12-21 20:58:27,289] (Delta duration: 0.0246s) [INFO    ] Done!
+[2023-12-21 20:58:27,289] (Delta duration: 0.0000s) [INFO    ] Solving equation system...
+[2023-12-21 20:58:27,717] (Delta duration: 0.4279s) [INFO    ] Done!
+[2023-12-21 20:58:27,718] (Delta duration: 0.0010s) [DEBUG   ] Session ended @ 21/12/2023 - 20:58:27
+[2023-12-21 20:58:27,718] (Delta duration: 0.0000s) [DEBUG   ] Duration: 0:00:01.055183
+[2023-12-21 20:58:27,718] (Delta duration: 0.0000s) [INFO    ] End!
+[2023-12-21 21:01:33,627] (Delta duration: 0.0000s) [DEBUG   ] ============================uvicorn============================
+[2023-12-21 21:01:33,627] (Delta duration: 0.0000s) [DEBUG   ] Session started @ 21/12/2023 - 21:01:33
+[2023-12-21 21:03:31,027] (Delta duration: 0.0000s) [DEBUG   ] ============================uvicorn============================
+[2023-12-21 21:03:31,028] (Delta duration: 0.0010s) [DEBUG   ] Session started @ 21/12/2023 - 21:03:31
+[2023-12-21 21:04:12,749] (Delta duration: 0.0000s) [DEBUG   ] ============================uvicorn============================
+[2023-12-21 21:04:12,749] (Delta duration: 0.0000s) [DEBUG   ] Session started @ 21/12/2023 - 21:04:12
+[2023-12-21 21:04:12,749] (Delta duration: 0.0000s) [DEBUG   ] FEM problem using the 2D Torsion formulation.
+[2023-12-21 21:04:12,750] (Delta duration: 0.0010s) [DEBUG   ] DOF: 1726
+[2023-12-21 21:04:12,750] (Delta duration: 0.0000s) [DEBUG   ] Elements: 769
+[2023-12-21 21:04:12,750] (Delta duration: 0.0000s) [DEBUG   ] Solver: lineal
+[2023-12-21 21:04:12,750] (Delta duration: 0.0000s) [DEBUG   ] EBC: 386
+[2023-12-21 21:04:12,750] (Delta duration: 0.0000s) [DEBUG   ] NBC: 0
+[2023-12-21 21:04:12,750] (Delta duration: 0.0000s) [INFO    ] Creating element matrices...
+[2023-12-21 21:04:13,053] (Delta duration: 0.3029s) [INFO    ] Done!
+[2023-12-21 21:04:13,053] (Delta duration: 0.0000s) [INFO    ] Ensembling equation system...
+[2023-12-21 21:04:13,084] (Delta duration: 0.0306s) [INFO    ] Done!
+[2023-12-21 21:04:13,085] (Delta duration: 0.0010s) [INFO    ] Border conditions...
+[2023-12-21 21:04:13,094] (Delta duration: 0.0096s) [INFO    ] Done!
+[2023-12-21 21:04:13,094] (Delta duration: 0.0000s) [INFO    ] Solving equation system...
+[2023-12-21 21:04:13,247] (Delta duration: 0.1532s) [INFO    ] Done!
+[2023-12-21 21:04:13,247] (Delta duration: 0.0000s) [DEBUG   ] Session ended @ 21/12/2023 - 21:04:13
+[2023-12-21 21:04:13,247] (Delta duration: 0.0000s) [DEBUG   ] Duration: 0:00:00.498208
+[2023-12-21 21:04:13,247] (Delta duration: 0.0000s) [INFO    ] End!
+[2023-12-21 21:06:21,521] (Delta duration: 0.0000s) [DEBUG   ] ============================uvicorn============================
+[2023-12-21 21:06:21,521] (Delta duration: 0.0000s) [DEBUG   ] Session started @ 21/12/2023 - 21:06:21
+[2023-12-21 21:06:21,522] (Delta duration: 0.0010s) [DEBUG   ] FEM problem using the 2D Torsion formulation.
+[2023-12-21 21:06:21,522] (Delta duration: 0.0000s) [DEBUG   ] DOF: 1726
+[2023-12-21 21:06:21,522] (Delta duration: 0.0000s) [DEBUG   ] Elements: 769
+[2023-12-21 21:06:21,522] (Delta duration: 0.0000s) [DEBUG   ] Solver: lineal
+[2023-12-21 21:06:21,522] (Delta duration: 0.0000s) [DEBUG   ] EBC: 386
+[2023-12-21 21:06:21,522] (Delta duration: 0.0000s) [DEBUG   ] NBC: 0
+[2023-12-21 21:06:21,523] (Delta duration: 0.0010s) [INFO    ] Creating element matrices...
+[2023-12-21 21:06:21,961] (Delta duration: 0.4377s) [INFO    ] Done!
+[2023-12-21 21:06:21,961] (Delta duration: 0.0000s) [INFO    ] Ensembling equation system...
+[2023-12-21 21:06:21,998] (Delta duration: 0.0366s) [INFO    ] Done!
+[2023-12-21 21:06:21,998] (Delta duration: 0.0000s) [INFO    ] Border conditions...
+[2023-12-21 21:06:22,012] (Delta duration: 0.0142s) [INFO    ] Done!
+[2023-12-21 21:06:22,012] (Delta duration: 0.0000s) [INFO    ] Solving equation system...
+[2023-12-21 21:06:22,173] (Delta duration: 0.1612s) [INFO    ] Done!
+[2023-12-21 21:06:22,173] (Delta duration: 0.0000s) [DEBUG   ] Session ended @ 21/12/2023 - 21:06:22
+[2023-12-21 21:06:22,173] (Delta duration: 0.0000s) [DEBUG   ] Duration: 0:00:00.652596
+[2023-12-21 21:06:22,173] (Delta duration: 0.0000s) [INFO    ] End!
+[2023-12-21 21:07:40,962] (Delta duration: 0.0000s) [DEBUG   ] ============================uvicorn============================
+[2023-12-21 21:07:40,962] (Delta duration: 0.0000s) [DEBUG   ] ============================uvicorn============================
+[2023-12-21 21:07:40,962] (Delta duration: 0.0000s) [DEBUG   ] Session started @ 21/12/2023 - 21:07:40
+[2023-12-21 21:07:40,962] (Delta duration: 0.0000s) [DEBUG   ] Session started @ 21/12/2023 - 21:07:40
+[2023-12-21 21:07:40,963] (Delta duration: 0.0010s) [DEBUG   ] FEM problem using the 2D Torsion formulation.
+[2023-12-21 21:07:40,963] (Delta duration: 0.0010s) [DEBUG   ] FEM problem using the 2D Torsion formulation.
+[2023-12-21 21:07:40,963] (Delta duration: 0.0000s) [DEBUG   ] DOF: 1726
+[2023-12-21 21:07:40,963] (Delta duration: 0.0000s) [DEBUG   ] DOF: 1726
+[2023-12-21 21:07:40,963] (Delta duration: 0.0000s) [DEBUG   ] Elements: 769
+[2023-12-21 21:07:40,963] (Delta duration: 0.0000s) [DEBUG   ] Elements: 769
+[2023-12-21 21:07:40,963] (Delta duration: 0.0000s) [DEBUG   ] Solver: lineal
+[2023-12-21 21:07:40,963] (Delta duration: 0.0000s) [DEBUG   ] Solver: lineal
+[2023-12-21 21:07:40,963] (Delta duration: 0.0000s) [DEBUG   ] EBC: 386
+[2023-12-21 21:07:40,963] (Delta duration: 0.0000s) [DEBUG   ] EBC: 386
+[2023-12-21 21:07:40,963] (Delta duration: 0.0000s) [DEBUG   ] NBC: 0
+[2023-12-21 21:07:40,963] (Delta duration: 0.0000s) [DEBUG   ] NBC: 0
+[2023-12-21 21:07:40,963] (Delta duration: 0.0000s) [INFO    ] Creating element matrices...
+[2023-12-21 21:07:40,963] (Delta duration: 0.0000s) [INFO    ] Creating element matrices...
+[2023-12-21 21:07:41,396] (Delta duration: 0.4333s) [INFO    ] Done!
+[2023-12-21 21:07:41,396] (Delta duration: 0.4333s) [INFO    ] Done!
+[2023-12-21 21:07:41,396] (Delta duration: 0.0000s) [INFO    ] Ensembling equation system...
+[2023-12-21 21:07:41,396] (Delta duration: 0.0000s) [INFO    ] Ensembling equation system...
+[2023-12-21 21:07:41,456] (Delta duration: 0.0601s) [INFO    ] Done!
+[2023-12-21 21:07:41,456] (Delta duration: 0.0601s) [INFO    ] Done!
+[2023-12-21 21:07:41,456] (Delta duration: 0.0000s) [INFO    ] Border conditions...
+[2023-12-21 21:07:41,456] (Delta duration: 0.0000s) [INFO    ] Border conditions...
+[2023-12-21 21:07:41,469] (Delta duration: 0.0131s) [INFO    ] Done!
+[2023-12-21 21:07:41,469] (Delta duration: 0.0131s) [INFO    ] Done!
+[2023-12-21 21:07:41,470] (Delta duration: 0.0010s) [INFO    ] Solving equation system...
+[2023-12-21 21:07:41,470] (Delta duration: 0.0010s) [INFO    ] Solving equation system...
+[2023-12-21 21:07:42,092] (Delta duration: 0.6216s) [INFO    ] Done!
+[2023-12-21 21:07:42,092] (Delta duration: 0.6216s) [INFO    ] Done!
+[2023-12-21 21:07:42,093] (Delta duration: 0.0010s) [DEBUG   ] Session ended @ 21/12/2023 - 21:07:42
+[2023-12-21 21:07:42,093] (Delta duration: 0.0010s) [DEBUG   ] Session ended @ 21/12/2023 - 21:07:42
+[2023-12-21 21:07:42,093] (Delta duration: 0.0000s) [DEBUG   ] Duration: 0:00:01.131070
+[2023-12-21 21:07:42,093] (Delta duration: 0.0000s) [DEBUG   ] Duration: 0:00:01.131070
+[2023-12-21 21:07:42,093] (Delta duration: 0.0000s) [INFO    ] End!
+[2023-12-21 21:07:42,093] (Delta duration: 0.0000s) [INFO    ] End!
+[2023-12-21 21:08:36,969] (Delta duration: 0.0000s) [DEBUG   ] ============================uvicorn============================
+[2023-12-21 21:08:36,969] (Delta duration: 0.0000s) [DEBUG   ] ============================uvicorn============================
+[2023-12-21 21:08:36,969] (Delta duration: 0.0000s) [DEBUG   ] ============================uvicorn============================
+[2023-12-21 21:08:36,969] (Delta duration: 0.0000s) [DEBUG   ] Session started @ 21/12/2023 - 21:08:36
+[2023-12-21 21:08:36,969] (Delta duration: 0.0000s) [DEBUG   ] Session started @ 21/12/2023 - 21:08:36
+[2023-12-21 21:08:36,969] (Delta duration: 0.0000s) [DEBUG   ] Session started @ 21/12/2023 - 21:08:36
+[2023-12-21 21:08:36,972] (Delta duration: 0.0036s) [DEBUG   ] FEM problem using the 2D Torsion formulation.
+[2023-12-21 21:08:36,972] (Delta duration: 0.0036s) [DEBUG   ] FEM problem using the 2D Torsion formulation.
+[2023-12-21 21:08:36,972] (Delta duration: 0.0036s) [DEBUG   ] FEM problem using the 2D Torsion formulation.
+[2023-12-21 21:08:36,973] (Delta duration: 0.0010s) [DEBUG   ] DOF: 1726
+[2023-12-21 21:08:36,973] (Delta duration: 0.0010s) [DEBUG   ] DOF: 1726
+[2023-12-21 21:08:36,973] (Delta duration: 0.0010s) [DEBUG   ] DOF: 1726
+[2023-12-21 21:08:36,974] (Delta duration: 0.0010s) [DEBUG   ] Elements: 769
+[2023-12-21 21:08:36,974] (Delta duration: 0.0010s) [DEBUG   ] Elements: 769
+[2023-12-21 21:08:36,974] (Delta duration: 0.0010s) [DEBUG   ] Elements: 769
+[2023-12-21 21:08:36,974] (Delta duration: 0.0000s) [DEBUG   ] Solver: lineal
+[2023-12-21 21:08:36,974] (Delta duration: 0.0000s) [DEBUG   ] Solver: lineal
+[2023-12-21 21:08:36,974] (Delta duration: 0.0000s) [DEBUG   ] Solver: lineal
+[2023-12-21 21:08:36,974] (Delta duration: 0.0000s) [DEBUG   ] EBC: 386
+[2023-12-21 21:08:36,974] (Delta duration: 0.0000s) [DEBUG   ] EBC: 386
+[2023-12-21 21:08:36,974] (Delta duration: 0.0000s) [DEBUG   ] EBC: 386
+[2023-12-21 21:08:36,974] (Delta duration: 0.0000s) [DEBUG   ] NBC: 0
+[2023-12-21 21:08:36,974] (Delta duration: 0.0000s) [DEBUG   ] NBC: 0
+[2023-12-21 21:08:36,974] (Delta duration: 0.0000s) [DEBUG   ] NBC: 0
+[2023-12-21 21:08:36,974] (Delta duration: 0.0000s) [INFO    ] Creating element matrices...
+[2023-12-21 21:08:36,974] (Delta duration: 0.0000s) [INFO    ] Creating element matrices...
+[2023-12-21 21:08:36,974] (Delta duration: 0.0000s) [INFO    ] Creating element matrices...
+[2023-12-21 21:08:37,413] (Delta duration: 0.4388s) [INFO    ] Done!
+[2023-12-21 21:08:37,413] (Delta duration: 0.4388s) [INFO    ] Done!
+[2023-12-21 21:08:37,413] (Delta duration: 0.4388s) [INFO    ] Done!
+[2023-12-21 21:08:37,413] (Delta duration: 0.0000s) [INFO    ] Ensembling equation system...
+[2023-12-21 21:08:37,413] (Delta duration: 0.0000s) [INFO    ] Ensembling equation system...
+[2023-12-21 21:08:37,413] (Delta duration: 0.0000s) [INFO    ] Ensembling equation system...
+[2023-12-21 21:08:37,459] (Delta duration: 0.0458s) [INFO    ] Done!
+[2023-12-21 21:08:37,459] (Delta duration: 0.0458s) [INFO    ] Done!
+[2023-12-21 21:08:37,459] (Delta duration: 0.0458s) [INFO    ] Done!
+[2023-12-21 21:08:37,459] (Delta duration: 0.0000s) [INFO    ] Border conditions...
+[2023-12-21 21:08:37,459] (Delta duration: 0.0000s) [INFO    ] Border conditions...
+[2023-12-21 21:08:37,459] (Delta duration: 0.0000s) [INFO    ] Border conditions...
+[2023-12-21 21:08:37,472] (Delta duration: 0.0130s) [INFO    ] Done!
+[2023-12-21 21:08:37,472] (Delta duration: 0.0130s) [INFO    ] Done!
+[2023-12-21 21:08:37,472] (Delta duration: 0.0130s) [INFO    ] Done!
+[2023-12-21 21:08:37,473] (Delta duration: 0.0015s) [INFO    ] Solving equation system...
+[2023-12-21 21:08:37,473] (Delta duration: 0.0015s) [INFO    ] Solving equation system...
+[2023-12-21 21:08:37,473] (Delta duration: 0.0015s) [INFO    ] Solving equation system...
+[2023-12-21 21:08:37,675] (Delta duration: 0.2020s) [INFO    ] Done!
+[2023-12-21 21:08:37,675] (Delta duration: 0.2020s) [INFO    ] Done!
+[2023-12-21 21:08:37,675] (Delta duration: 0.2020s) [INFO    ] Done!
+[2023-12-21 21:08:37,675] (Delta duration: 0.0000s) [DEBUG   ] Session ended @ 21/12/2023 - 21:08:37
+[2023-12-21 21:08:37,675] (Delta duration: 0.0000s) [DEBUG   ] Session ended @ 21/12/2023 - 21:08:37
+[2023-12-21 21:08:37,675] (Delta duration: 0.0000s) [DEBUG   ] Session ended @ 21/12/2023 - 21:08:37
+[2023-12-21 21:08:37,675] (Delta duration: 0.0000s) [DEBUG   ] Duration: 0:00:00.706580
+[2023-12-21 21:08:37,675] (Delta duration: 0.0000s) [DEBUG   ] Duration: 0:00:00.706580
+[2023-12-21 21:08:37,675] (Delta duration: 0.0000s) [DEBUG   ] Duration: 0:00:00.706580
+[2023-12-21 21:08:37,676] (Delta duration: 0.0010s) [INFO    ] End!
+[2023-12-21 21:08:37,676] (Delta duration: 0.0010s) [INFO    ] End!
+[2023-12-21 21:08:37,676] (Delta duration: 0.0010s) [INFO    ] End!
